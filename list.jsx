@@ -20,6 +20,7 @@ function mapDispatchToProps(dispatch) {
   };
 }
 
+
 class ConnectedList extends Component {
   constructor(props) {
     super(props);
